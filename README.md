@@ -5,6 +5,7 @@ O.MG in as much as it is the name given to this Cable, is also an acronmy for th
 O.MG cable which is like any and every other type of our chaging cable can not be physically differneciated not even by a Tech professional. Not even when used until harm is caused with it before anyone can identify that something has gone wrong.
 ### Types of O.MG Cable Active End Port
 - USB A
-- USB c
+- USB C
 - Directional C To C
+### O.MG Setup Pack
 
