@@ -35,7 +35,7 @@ To get started
 Create Payload script to start launching attacks on the device.
 
 Warring!!!
-Make sure there are no sencetive information on the device the OMG Cable is plugged into.
+Make sure there are no sencetive information on the device the OMG Cable is plugged into. 
 
 ## Lessons Learnt
 1. THE DEVICE THE CABLE IS PLUGGED ON, THE SCRIPT CAN BE EXECUTED ON
