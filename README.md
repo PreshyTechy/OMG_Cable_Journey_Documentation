@@ -7,6 +7,7 @@ O.MG cable which is like any and every other type of our chaging cable can not b
 - USB A
 - USB C
 - Directional C To C
+
 ![Screenshot (184)](https://github.com/user-attachments/assets/194a6918-a0f5-48aa-a126-cfb79be1da52)
 ### O.MG Setup Pack
 - O.MG Cable either USB-A, USB-C or Directional C to C
