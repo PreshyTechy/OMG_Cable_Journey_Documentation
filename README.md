@@ -15,5 +15,5 @@ O.MG cable which is like any and every other type of our chaging cable can not b
 To get started 
 - [Click Here](https://o.mg.lol/setup/OMGCable/)
 - Click on WEBFLASHER
-  
+  ![Screenshot (177)](https://github.com/user-attachments/assets/5d8ef9b7-84df-41ea-b9ba-00d3594ac655)
 - 
