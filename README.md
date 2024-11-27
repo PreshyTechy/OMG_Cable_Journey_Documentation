@@ -31,6 +31,9 @@ To get started
 - Click on the Continue Button after doing the above
 ![Screenshot (181)](https://github.com/user-attachments/assets/a5316012-0a43-4d90-81f2-8a76108bfd4f)
 
+## What Next
+
+
 ## Lessons Learnt
 1. THE DEVICE THE CABLE IS PLUGGED ON, THE SCRIPT CAN BE EXECUTED ON
 2. ATTACK CAN COME FROM DIFFERENT DEVICES AS LONG AS IT IS CONNECTED TO THE OMG WIFI AND THE OMG CABLE ACTIVE END IS PLUGGED IN A DEVICE.
