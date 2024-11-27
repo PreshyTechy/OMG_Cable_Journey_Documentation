@@ -16,12 +16,16 @@ O.MG cable which is like any and every other type of our chaging cable can not b
 ### Installation Steps
 To get started 
 - [Click Here](https://o.mg.lol/setup/OMGCable/)
+
 - Click on WEBFLASHER
   ![Screenshot (177)](https://github.com/user-attachments/assets/5d8ef9b7-84df-41ea-b9ba-00d3594ac655)
+
 - Scroll through to read through the Agreement
 ![Screenshot (178)](https://github.com/user-attachments/assets/fdaefb8b-6ee1-423b-8773-69e7e7fc5011)
+
 - Click on 'I Agree'
 ![Screenshot (179)](https://github.com/user-attachments/assets/5ad87c82-4103-444e-b494-3cdbc1541bc8)
+
 - First connect your O.MG Programmerto the device/computer
 - Then, connect the active end of the O.MG cable to the O.MG programmer
 - Click on the Continue Button after doing the above
