@@ -20,5 +20,7 @@ To get started
 ![Screenshot (178)](https://github.com/user-attachments/assets/fdaefb8b-6ee1-423b-8773-69e7e7fc5011)
 - Click on 'I Agree'
 ![Screenshot (179)](https://github.com/user-attachments/assets/5ad87c82-4103-444e-b494-3cdbc1541bc8)
-
-![Screenshot (180)](https://github.com/user-attachments/assets/932f2b53-99a3-4438-809f-5954f1b04f07)
+- First connect your O.MG Programmerto the device/computer
+- Then, connect the active end of the O.MG cable to the O.MG programmer
+- Click on the Continue Button after doing the above
+![Screenshot (181)](https://github.com/user-attachments/assets/a5316012-0a43-4d90-81f2-8a76108bfd4f)
