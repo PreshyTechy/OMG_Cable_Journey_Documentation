@@ -32,7 +32,10 @@ To get started
 ![Screenshot (181)](https://github.com/user-attachments/assets/a5316012-0a43-4d90-81f2-8a76108bfd4f)
 
 ## What Next
+Create Payload script to start launching attacks on the device.
 
+Warring!!!
+Make sure there are no sencetive information on the device the OMG Cable is plugged into.
 
 ## Lessons Learnt
 1. THE DEVICE THE CABLE IS PLUGGED ON, THE SCRIPT CAN BE EXECUTED ON
