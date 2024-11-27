@@ -24,3 +24,5 @@ To get started
 - Then, connect the active end of the O.MG cable to the O.MG programmer
 - Click on the Continue Button after doing the above
 ![Screenshot (181)](https://github.com/user-attachments/assets/a5316012-0a43-4d90-81f2-8a76108bfd4f)
+
+## Lessons Learnt
