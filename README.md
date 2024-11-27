@@ -12,3 +12,4 @@ O.MG cable which is like any and every other type of our chaging cable can not b
 - O.MG Programmer
 - O.MG Adapter
 ### Installation Steps
+To get started [Click Here](https://o.mg.lol/setup/OMGCable/)
