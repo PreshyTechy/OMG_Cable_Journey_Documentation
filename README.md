@@ -12,7 +12,9 @@ O.MG cable which is like any and every other type of our charging cable cannot b
 ### O.MG Setup Pack
 - O.MG Cable either USB-A, USB-C or Directional C to C
 - O.MG Programmer
+- Regular USB Cable
 - O.MG Adapter
+- Device (Laptop, Phone, Notepad, etc.)
 ### Installation Steps
 To get started 
 - [Click Here](https://o.mg.lol/setup/OMGCable/)
