@@ -1,8 +1,8 @@
 # OMG_Cable_Journey_Documentation
 This is the documentation of my OMG Cable research journey for University of Bedfordshire School of Computer Science Cybersecurity Department.
 ## OMG Cable Introduction
-O.MG in as much as it is the name given to this Cable, is also an acronmy for the phrase 'OH My God' that is used when things go wrong. What a coincidence right?
-O.MG cable which is like any and every other type of our charging cable cannot be physically differnetiated not even by a Tech professional. Not even when used until harm is caused with it before anyone can identify that something has gone wrong.
+O.MG in as much as it is the name given to this Cable, is also an acronym for the phrase 'OH My God' that is used when things go wrong. What a coincidence right?
+O.MG cable which is like any and every other type of our charging cable cannot be physically differentiated not even by a Tech professional. Not even when used until harm is caused with it before anyone can identify that something has gone wrong.
 ### Types of O.MG Cable Active End Port
 - USB A
 - USB C
@@ -37,7 +37,7 @@ To get started
 Create Payload script to start launching attacks on the device.
 
 Warring!!!
-Make sure there are no sencetive information on the device the OMG Cable is plugged into. 
+Make sure there are no sensitive information on the device the OMG Cable is plugged into. 
 
 ## Lessons Learnt
 1. THE DEVICE THE CABLE IS PLUGGED ON, THE SCRIPT CAN BE EXECUTED ON
