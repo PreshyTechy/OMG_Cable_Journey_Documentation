@@ -39,6 +39,10 @@ Create Payload script to start launching attacks on the device.
 Warring!!!
 Make sure there are no sensitive information on the device the OMG Cable is plugged into. 
 
-## Lessons Learnt
+## Observation
 1. THE DEVICE THE CABLE IS PLUGGED ON, THE SCRIPT CAN BE EXECUTED ON
 2. ATTACK CAN COME FROM DIFFERENT DEVICES AS LONG AS IT IS CONNECTED TO THE OMG WIFI AND THE OMG CABLE ACTIVE END IS PLUGGED IN A DEVICE.
+
+Conclusion:
+Create Payload script to start launching attacks on the device. You can get written payload script by [clicking](https://github.com/hak5/omg-payloads)
+Warring!!! Make sure there are no sensitive information on the device the OMG Cable is plugged into.
