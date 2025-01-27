@@ -215,7 +215,8 @@ ENTER
 ```
 
 ### Enable Caps Lock (Even if It's Off)
-```DELAY 500  
+```
+DELAY 500  
 CAPSLOCK
 ```
 
