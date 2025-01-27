@@ -158,7 +158,7 @@ Adhering to compliance standards ensures ethical and legal testing practices. It
 ## Basic Payload Types
 
 ### Open Notepad and Type a Message
-```DELAY 500  
+``` DELAY 500  
 STRING notepad  
 ENTER  
 DELAY 500  
@@ -167,7 +167,7 @@ ENTER
 ```
 
 ### Open Command Prompt and List Files
-```DELAY 500  
+``` DELAY 500  
 STRING cmd  
 ENTER  
 DELAY 500  
@@ -176,31 +176,31 @@ ENTER
 ```
 
 ### Open a Website in Browser
-```DELAY 500  
+``` DELAY 500  
 STRING start https://example.com  
 ENTER
 ```  
 
 ### Turn Off the Computer
-```DELAY 500  
+``` DELAY 500  
 STRING shutdown /s /t 5  
 ENTER
 ```  
 
 ### Display a Message Box (Windows)
-```DELAY 500  
+``` DELAY 500  
 STRING powershell -command "msg * Hello, this is a test!"  
 ENTER
 ```  
 
 ### Open Calculator
-```DELAY 500  
+``` DELAY 500  
 STRING calc  
 ENTER
 ```  
 
 ### Create a New Folder on Desktop
-```DELAY 500  
+``` DELAY 500  
 STRING cmd  
 ENTER  
 DELAY 500  
@@ -209,7 +209,7 @@ ENTER
 ```
 
 ### Open Task Manager
-```DELAY 500  
+``` DELAY 500  
 STRING taskmgr  
 ENTER
 ```
@@ -221,7 +221,7 @@ CAPSLOCK
 ```
 
 ### Open Notepad and Write Random Text Repeatedly
-```DELAY 500  
+``` DELAY 500  
 STRING notepad  
 ENTER  
 DELAY 500  
@@ -234,31 +234,31 @@ ENTER
 ```
 
 ### Lock the Computer
-```DELAY 500  
+``` DELAY 500  
 STRING rundll32.exe user32.dll,LockWorkStation  
 ENTER
 ```  
 
 ### Open File Explorer
-```DELAY 500  
+``` DELAY 500  
 STRING explorer  
 ENTER
 ``` 
 
 ### Mute System Volume
-```DELAY 500  
+``` DELAY 500  
 STRING nircmd.exe mutesysvolume 1  
 ENTER
 ```
 (Requires NirCMD tool installed on the system.) 
 
 ### Open the Run Dialog Box
-```DELAY 500  
+``` DELAY 500  
 GUI R 
 ```
 
 ### Minimize All Windows
-```DELAY 500  
+``` DELAY 500  
 STRING powershell (New-Object -ComObject Shell.Application).MinimizeAll()  
 ENTER
 ```
@@ -388,6 +388,7 @@ ENTER
 DELAY 1000
 STRING Get-Service | Where-Object {$_.Status -eq 'Running'} | Out-File $env:temp\running_services.txt
 ENTER
+```
 
 ## Defensive Recommendations
 Organizations should utilize USB data blockers to prevent unauthorized data exchange when charging from untrusted sources. Implementing device control policies helps regulate and restrict USB device usage, reducing potential security risks. Enabling USB audit logging allows for monitoring and tracking of USB activity, providing visibility into potential threats. Additionally, staff should be trained on USB security best practices to ensure they recognize and mitigate potential risks effectively.
