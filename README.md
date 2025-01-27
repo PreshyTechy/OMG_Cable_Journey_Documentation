@@ -158,60 +158,69 @@ Adhering to compliance standards ensures ethical and legal testing practices. It
 ## Basic Payload Types
 
 ### Open Notepad and Type a Message
-DELAY 500  
+```DELAY 500  
 STRING notepad  
 ENTER  
 DELAY 500  
 STRING Hello, this is an automated message!  
-ENTER  
+ENTER
+```
 
 ### Open Command Prompt and List Files
-DELAY 500  
+```DELAY 500  
 STRING cmd  
 ENTER  
 DELAY 500  
 STRING dir  
-ENTER 
+ENTER
+```
 
 ### Open a Website in Browser
-DELAY 500  
+```DELAY 500  
 STRING start https://example.com  
-ENTER  
+ENTER
+```  
 
 ### Turn Off the Computer
-DELAY 500  
+```DELAY 500  
 STRING shutdown /s /t 5  
-ENTER  
+ENTER
+```  
 
 ### Display a Message Box (Windows)
-DELAY 500  
+```DELAY 500  
 STRING powershell -command "msg * Hello, this is a test!"  
-ENTER  
+ENTER
+```  
 
 ### Open Calculator
-DELAY 500  
+```DELAY 500  
 STRING calc  
-ENTER  
+ENTER
+```  
 
 ### Create a New Folder on Desktop
-DELAY 500  
+```DELAY 500  
 STRING cmd  
 ENTER  
 DELAY 500  
 STRING mkdir %USERPROFILE%\Desktop\NewFolder  
-ENTER  
+ENTER
+```
 
 ### Open Task Manager
-DELAY 500  
+```DELAY 500  
 STRING taskmgr  
-ENTER  
+ENTER
+```
 
 ### Enable Caps Lock (Even if It's Off)
-DELAY 500  
-CAPSLOCK  
+```DELAY 500  
+CAPSLOCK
+```
 
 ### Open Notepad and Write Random Text Repeatedly
-DELAY 500  
+```DELAY 500  
 STRING notepad  
 ENTER  
 DELAY 500  
@@ -220,32 +229,38 @@ ENTER
 STRING This will repeat...  
 ENTER  
 STRING Over and over!  
-ENTER  
+ENTER 
+```
 
 ### Lock the Computer
-DELAY 500  
+```DELAY 500  
 STRING rundll32.exe user32.dll,LockWorkStation  
-ENTER  
+ENTER
+```  
 
 ### Open File Explorer
-DELAY 500  
+```DELAY 500  
 STRING explorer  
-ENTER  
+ENTER
+``` 
 
 ### Mute System Volume
-DELAY 500  
+```DELAY 500  
 STRING nircmd.exe mutesysvolume 1  
-ENTER 
+ENTER
+```
 (Requires NirCMD tool installed on the system.) 
 
 ### Open the Run Dialog Box
-DELAY 500  
-GUI R  
+```DELAY 500  
+GUI R 
+```
 
 ### Minimize All Windows
-DELAY 500  
+```DELAY 500  
 STRING powershell (New-Object -ComObject Shell.Application).MinimizeAll()  
 ENTER
+```
 
 ## Other examples
 ### DuckyScript Examples
