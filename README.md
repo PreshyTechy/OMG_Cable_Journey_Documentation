@@ -1,5 +1,5 @@
 # O.MG Cable Installation and Setup Lab Sheet
-## Research Content 
+## Research Content of O.MG
 -	Understanding 
 -	Concept
 -	Features and Functionalities
