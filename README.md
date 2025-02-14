@@ -5,7 +5,7 @@
 -	Features and Functionalities
 -	Materials
 -	Installation/setup
--	Payloads
+-	Payloads Scripts
 
 ## O.MG Cable Introduction
 O.MG in as much as it is the name given to this Cable, is also an acronym for the phrase 'OH My God' that is used when things go wrong. What a coincidence right?
